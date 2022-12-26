@@ -1,0 +1,8 @@
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\bin\Debug\hastane_otomasyonu.exe.config
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\bin\Debug\hastane_otomasyonu.exe
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\bin\Debug\hastane_otomasyonu.pdb
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\obj\Debug\hastane_otomasyonu.csproj.AssemblyReference.cache
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\obj\Debug\hastane_otomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\obj\Debug\hastane_otomasyonu.csproj.CoreCompileInputs.cache
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\obj\Debug\hastane_otomasyonu.exe
+D:\C#\c# console\yeni\hastane_otomasyonu\hastane_otomasyonu\obj\Debug\hastane_otomasyonu.pdb

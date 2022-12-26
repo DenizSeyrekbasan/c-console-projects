@@ -1,0 +1,8 @@
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\bin\Debug\urun_satis_otomasyon.exe.config
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\bin\Debug\urun_satis_otomasyon.exe
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\bin\Debug\urun_satis_otomasyon.pdb
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\obj\Debug\urun_satis_otomasyon.csproj.AssemblyReference.cache
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\obj\Debug\urun_satis_otomasyon.csproj.SuggestedBindingRedirects.cache
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\obj\Debug\urun_satis_otomasyon.csproj.CoreCompileInputs.cache
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\obj\Debug\urun_satis_otomasyon.exe
+D:\C#\c# console\yeni\urun_satis_otomasyon\urun_satis_otomasyon\obj\Debug\urun_satis_otomasyon.pdb
